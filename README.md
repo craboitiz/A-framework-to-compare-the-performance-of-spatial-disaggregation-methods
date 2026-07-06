@@ -29,4 +29,4 @@ If you use this repository, please cite the associated manuscript and this repos
 
 ## License
 
-This repository is licensed under the MIT License.
+License information will be added before final publication.

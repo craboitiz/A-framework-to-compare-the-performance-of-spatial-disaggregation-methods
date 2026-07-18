@@ -2,10 +2,11 @@
 
 This repository contains the code and supporting information associated with the manuscript:
 
-**A framework to compare the performance of spatial disaggregation methods of statistical climate downscaling in South America**  
-Author: Cristobal Aboitiz, Cristián Chadwick, Jonathan Barichivich, Jorge Perez-Quezada
+**A framework to compare the performance of spatial disaggregation methods of statistical climate downscaling in South America** 
 
-Status: Supporting information for manuscript submission
+**Authors:** Cristobal Aboitiz, Cristián Chadwick, Jonathan Barichivich, Jorge Perez-Quezada
+
+**Status:** Supporting information for manuscript submission
 
 ## Repository structure
 

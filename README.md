@@ -13,7 +13,6 @@ This repository contains the code and supporting information associated with the
 - `code/`: Scripts used for data preprocessing, spatial disaggregation, evaluation metrics, and figure/table generation.
 - `data_description/`: Description of input datasets, file structure, and data availability.
 - `supporting_information/`: Supplementary figures, tables, and methodological details.
-- `outputs/`: Generated figures and tables.
 
 ## Reproducibility
 
